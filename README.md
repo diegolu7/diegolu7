@@ -5,7 +5,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegolu7&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p>
 <hr>
 
-<div align="center" style="background-color=#191919">
+<div align="center" style="background-color:#191919;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact) </div>
 

@@ -1,5 +1,6 @@
 ### Hi mi nombre es Diego! 👋
 
+- 🔭 Actualmente estoy aprendido el stack MERN
 <!--
 **diegolu7/diegolu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

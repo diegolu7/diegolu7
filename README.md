@@ -2,7 +2,7 @@
 <p align="center"><b> developert </b> :computer:</p>
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegolu7&&show_icons=true&title_color=FEFEFE&icon_color=00c87b&text_color=444444&bg_color=151515&count_private=true"></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegolu7&&show_icons=true&title_color=FEFEFE&icon_color=FFC83D&text_color=444444&bg_color=151515&count_private=true"></p> 
 <hr>
 
 <div align="center" style="background-color:191919;">

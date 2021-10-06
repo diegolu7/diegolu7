@@ -7,7 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact)
 
 <!--
 **diegolu7/diegolu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->   
-<p><a href="https://github.com/diegolu7/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&amp;bg_color=000000&amp;text_color=FFFFFF&amp;title_color=159E4A&amp;langs_count=10&amp;card_width=1000&amp;layout=compact" style="max-width: 100%;"></a></p>
+-->    

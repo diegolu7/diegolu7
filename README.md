@@ -7,7 +7,7 @@
 
 <div align="center" style="background-color:191919;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact) </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact&bg_color=151515) </div>
 
 <!--
 **diegolu7/diegolu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->    
-![Diego F. Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=diegolu7&theme=dark&show_icons=true)

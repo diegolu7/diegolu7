@@ -5,9 +5,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegolu7&&show_icons=true&title_color=FEFEFE&icon_color=FFC83D&text_color=9E9E9E&bg_color=151515&count_private=true"></p> 
 <hr>
 
-<div align="center" style="background-color:191919;">
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact&bg_color=151515) </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegolu7&layout=compact&bg_color=151515&text_color=9E9E9E&title_color=FEFEFE) </div>
 
 <!--
 **diegolu7/diegolu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

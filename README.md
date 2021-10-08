@@ -1,4 +1,4 @@
-### <h1 align="center"><b> :zap: Console.log("Hi World, mi nombre es Diego!"); :zap: </b></h1>
+### <h1 align="center"><b> :zap: Console.log("Hi World, my name is Diego!"); :zap: </b></h1>
 <p align="center"><b> developert </b> :computer:</p>
 
 <hr>

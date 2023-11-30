@@ -1,5 +1,5 @@
 ### <h1 align="center"><b> :zap: Console.log("Hi World, my name is Diego!"); :zap: </b></h1>
-<p align="center"><b> developert </b> :computer:</p>
+<p align="center"><b> developer </b> :computer:</p>
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegolu7&&show_icons=true&title_color=FEFEFE&icon_color=FFC83D&text_color=9E9E9E&bg_color=151515&count_private=true"></p> 
